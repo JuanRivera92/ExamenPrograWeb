@@ -1,5 +1,5 @@
 <?php
 
-header("Location: views/site/inicio2.php");
+header("Location: views/site/inicio.php");
 
 ?>
